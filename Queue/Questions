@@ -1,0 +1,8 @@
+1--> Write a menu driven c-code for the following operations on Linear queue using array.
+(i) Insertion
+(ii) Deletion
+(iii) Traversal
+
+2--> Design a function CQINSERT () and CQDELETE () for static implementation of circular queue.
+
+3--> You are provided with two stacks, POP () and PUSH() functions for them, write a c-program to implement queue i.e insert and delete operation using the available operations. 
